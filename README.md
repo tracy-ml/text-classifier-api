@@ -1,7 +1,4 @@
 # M2 Text Classifier API
-
-![CI](https://github.com/tracy-ml/m2-text-classifier-api/workflows/CI/badge.svg)
-
 A production-ready text classification API built with FastAPI, featuring both classical (TF-IDF + Logistic Regression) and modern (DistilBERT) approaches. Classifies news articles into 4 categories: World, Sports, Business, Sci/Tech.
 
 ## 🚀 Features
