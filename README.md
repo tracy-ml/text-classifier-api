@@ -1,0 +1,1 @@
+![CI](https://github.com/tracy-ml/m2-text-classifier-api/workflows/CI/badge.svg)
